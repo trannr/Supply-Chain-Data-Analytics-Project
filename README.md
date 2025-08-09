@@ -17,15 +17,15 @@ Skills Demonstrated
     Filtering (WHERE, HAVING, CASE WHEN)
     Window Functions (OVER, PERCENTAGE CALCULATIONS)
     Subqueries and CTEs (WITH clauses)
-    Joins (inner, left)
+   Joins (inner, left)
 2. Data Cleaning & Preparation
     Handling NULL values
     Calculating derived metrics (profit, margin, stock coverage)
-3. Business Analytica
+3. Business Analytics
     KPI creation
     Comparative and trend analysis
     Risk vs reward evaluation
-4. Data Visualization
+5. Data Visualization
     Bar charts, scatter plots, pie charts
     KPI cards
     Dashboards for performance monitoring
