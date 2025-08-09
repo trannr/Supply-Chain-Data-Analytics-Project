@@ -13,20 +13,20 @@ Objectives
 
 Skills Demonstrated
 1. SQL Data Analysis  
-    a. Aggregations (SUM, AVG, MAX, MIN, COUNT)  
-    b. Filtering (WHERE, HAVING, CASE WHEN)  
-    c. Window Functions (OVER, PERCENTAGE CALCULATIONS)  
-    d. Subqueries and CTEs (WITH clauses)  
-    e. Joins (inner, left)  
+    Aggregations (SUM, AVG, MAX, MIN, COUNT)  
+    Filtering (WHERE, HAVING, CASE WHEN)  
+    Window Functions (OVER, PERCENTAGE CALCULATIONS)  
+    Subqueries and CTEs (WITH clauses)  
+    Joins (inner, left)  
 2. Data Cleaning & Preparation  
-    a. Handling NULL values  
-    b. Calculating derived metrics (profit, margin, stock coverage)  
+    Handling NULL values  
+    Calculating derived metrics (profit, margin, stock coverage)  
 3. Business Analytics  
-    a. KPI creation  
-    b. Comparative and trend analysis  
-    c. Risk vs reward evaluation  
+    KPI creation  
+    Comparative and trend analysis  
+    Risk vs reward evaluation  
 5. Data Visualization  
-    a. Bar charts, scatter plots, pie charts  
-    b. KPI cards  
-    c. Dashboards for performance monitoring  
+    Bar charts, scatter plots, pie charts  
+    KPI cards  
+    Dashboards for performance monitoring  
 
