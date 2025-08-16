@@ -1,4 +1,4 @@
-# Supply-Chain-SQL-Dashboard
+# Supply-Chain-Data-Analytics-Dashboard
 This is an end-to-end supply chain analysis project using SQL and a Kaggle dataset. I explored sales trends, supplier performance, shipping costs, product quality, profitability, and inventory levels, then brought the findings together in interactive dashboards.
 
 
@@ -29,4 +29,19 @@ Skills Demonstrated
     Bar charts, scatter plots, pie charts  
     KPI cards  
     Dashboards for performance monitoring  
+
+
+## Tableau Dashboards
+
+### Top Selling Products
+![Top-Selling Products Analysis](Tableau/Top-Selling%20Products%20Analysis%20Screenshot.png)
+[View Interactive Dashboard](https://public.tableau.com/views/Top-SellingProductsAnalysis/Top-SellingProductsAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+### Supplier Performance
+![Supplier Performance Analysis](Tableau/Supplier%20Performance%20Analysis%20Screenshot.png)
+[View on Tableau Public](https://public.tableau.com/views/SupplyPerformanceAnalysis/SupplierPerformanceAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+### Shipping Analysis
+![Shipping Analysis](Tableau/Shipping%20Analysis%20Screenshot.png)
+[View on Tableau Public](https://public.tableau.com/views/ShippingAnalysis_17553316093880/ShippingAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
