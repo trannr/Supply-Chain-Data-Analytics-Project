@@ -1,7 +1,8 @@
 # Supply-Chain-Data-Analytics-Project
 This project is a full-cycle supply chain analysis using SQL, Power BI, and Tableau, based on a dataset from Kaggle. It explores key aspects of supply chain operations—from product performance and supplier quality to profitability and inventory optimization.
 
-📊 The final dashboards provide business-ready insights to support data-driven decision-making.
+📊 The final dashboards provide business-ready insights to support data-driven decision-making.  
+Dataset: [Supply Chain Dataset on Kaggle](https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset?resource=download)
 
 
 🎯 Objectives
