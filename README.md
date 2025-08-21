@@ -1,11 +1,11 @@
 # Supply-Chain-Data-Analytics-Project
 This project is a full-cycle supply chain analysis using SQL, Power BI, and Tableau, based on a dataset from Kaggle. It explores key aspects of supply chain operations—from product performance and supplier quality to profitability and inventory optimization.
 
-📊 The final dashboards provide business-ready insights to support data-driven decision-making.  
+The final dashboards provide business-ready insights to support data-driven decision-making.  
 Dataset: [Supply Chain Dataset on Kaggle](https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset?resource=download)
 
 
-🎯 Objectives
+Objectives
 1. Identify top-selling products and their contribution to total revenue.
 2. Evaluate supplier performance and delivery consistency.
 3. Analyze shipping costs by carrier and route.
@@ -14,9 +14,9 @@ Dataset: [Supply Chain Dataset on Kaggle](https://www.kaggle.com/datasets/amirmo
 6. Recommend inventory optimization strategies.
 
 
-🛠️ Tools & Skills Used:  
+Tools & Skills Used:  
 
-🔍 SQL (MySQL)  
+SQL (MySQL)  
 *    Aggregations: SUM, AVG, COUNT, MAX, MIN  
 *    Conditional Logic: CASE WHEN  
 *    Joins: INNER, LEFT  
@@ -24,17 +24,17 @@ Dataset: [Supply Chain Dataset on Kaggle](https://www.kaggle.com/datasets/amirmo
 *    Window functions: RANK(), ROW_NUMBER()  
 *    Data cleaning, derived metrics (e.g., profit margin, stock ratios)
   
-📊 Power BI  
+Power BI  
 *    Data modeling and relationships  
 *    Custom calculated columns & DAX measures  
 *    Multi-page dashboards  
 *    Slicers, card visuals, conditional formatting
   
-📈 Tableau  
+Tableau  
 *    Interactive dashboards for exploratory analysis  
 *    Visual storytelling using bar, pie, scatter charts, and filters
   
-💡 Key Metrics & KPIs  
+Key Metrics & KPIs  
 *    Defect Rate by Product Type  
 *    Revenue vs Defect Rate by Supplier  
 *    Profit Margin % by SKU and Product Category  
